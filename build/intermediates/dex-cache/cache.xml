@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cloudine/AndroidStudioProjects/Moim/app/build/intermediates/exploded-aar/com.kakao.sdk/kakaolink/1.1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2b5b6d3db3539a5d2e146566580e7ebd476684d">
+        <dex dex="/Users/cloudine/AndroidStudioProjects/Moim/app/build/intermediates/pre-dexed/debug/classes-1b4bb56d40e40b9109f71969b53ea99022fd9ccf.jar" />
+    </item>
+
+</items>
